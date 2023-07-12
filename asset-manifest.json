@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Anshika-portfolio/static/css/main.ff02f0dc.chunk.css",
+    "main.js": "/Anshika-portfolio/static/js/main.614c49cb.chunk.js",
+    "main.js.map": "/Anshika-portfolio/static/js/main.614c49cb.chunk.js.map",
+    "runtime-main.js": "/Anshika-portfolio/static/js/runtime-main.5a2bf9e4.js",
+    "runtime-main.js.map": "/Anshika-portfolio/static/js/runtime-main.5a2bf9e4.js.map",
+    "static/js/2.2712feed.chunk.js": "/Anshika-portfolio/static/js/2.2712feed.chunk.js",
+    "static/js/2.2712feed.chunk.js.map": "/Anshika-portfolio/static/js/2.2712feed.chunk.js.map",
+    "static/js/3.119bf1bb.chunk.js": "/Anshika-portfolio/static/js/3.119bf1bb.chunk.js",
+    "static/js/3.119bf1bb.chunk.js.map": "/Anshika-portfolio/static/js/3.119bf1bb.chunk.js.map",
+    "index.html": "/Anshika-portfolio/index.html",
+    "static/css/main.ff02f0dc.chunk.css.map": "/Anshika-portfolio/static/css/main.ff02f0dc.chunk.css.map",
+    "static/js/2.2712feed.chunk.js.LICENSE.txt": "/Anshika-portfolio/static/js/2.2712feed.chunk.js.LICENSE.txt",
+    "static/media/Anshika_CV23.a48dea21.pdf": "/Anshika-portfolio/static/media/Anshika_CV23.a48dea21.pdf",
+    "static/media/index.css": "/Anshika-portfolio/static/media/bg_3.beb30e30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a2bf9e4.js",
+    "static/js/2.2712feed.chunk.js",
+    "static/css/main.ff02f0dc.chunk.css",
+    "static/js/main.614c49cb.chunk.js"
+  ]
+}
