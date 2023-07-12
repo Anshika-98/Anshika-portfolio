@@ -1,0 +1,121 @@
+/* MainPage.css */
+
+.tab-container {
+  display: flex;
+}
+
+.tab {
+  flex: 1;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.tab:hover {
+  background-color: #e6e6e6;
+}
+
+.tab.active {
+  background-color: #333;
+  color: #fff;
+}
+
+.content-container {
+  padding: 20px;
+  background: color bg_ 1px;;
+}
+
+/* Styles for About section */
+.tab.about {
+  background-color: #ffcc99;
+}
+
+.content.about {
+  background-color: #ffebcc;
+}
+
+/* Styles for Projects section */
+.tab.projects {
+  background-color: #99ccff;
+}
+
+.content.projects {
+  background-color: #cce6ff;
+}
+
+/* Styles for Education section */
+.tab.education {
+  background-color: #cc99ff;
+}
+
+.content.education {
+  background-color: #e6ccff;
+}
+
+/* Styles for Contact Me section */
+.tab.contact {
+  background-color: #99ff99;
+}
+
+.content.contact {
+  background-color: #ccffcc;
+}
+
+.tab {
+  /* Existing styles */
+  
+  /* Add 3D effect */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  transform: perspective(20px) rotateX(2deg);
+}
+.align
+{
+  text-align: center;
+  
+}
+.bullet-free-list {
+  list-style: none;
+  padding-left: 10;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  text-align: center;
+}
+.size-footer{
+  font-size: small;
+}
+h1{
+  text-align: center;
+}
+
+.icons{
+  font-weight: bold;
+  font-size: 40px; 
+  display: inline-block;
+  padding-top: 30px;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+
+.photo {
+  border: 1px solid #d30909;
+  padding: 10px;
+}
+
+

@@ -1,0 +1,41 @@
+.number-widget {
+    display: grid;
+    flex-direction:row;
+    align-items: center;
+    font-size: 24px;
+  }
+  
+  .number-widget span {
+    font-weight: bold;
+  }
+  
+  .number-widget .number {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  .number-widget-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+
+  .number-widget {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .number-icon{
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  }
+  .number-widget .number {
+    margin-left: 10px;
+  }
+  
+  
+ 
